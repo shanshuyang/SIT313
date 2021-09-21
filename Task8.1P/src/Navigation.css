@@ -1,0 +1,9 @@
+.NavigationRow{
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: lightgray;
+}
+.NavigationColumn{
+    flex: 16.66%;
+    padding: 1px;
+}

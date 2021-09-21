@@ -1,0 +1,13 @@
+.image{
+    background-size: cover;
+    background-size: contain;
+    width: 100%;
+    height: auto;
+}
+.image_star{
+    height: 22px;
+    width: 22px;
+}
+.image_share{
+    margin-left: 20px;
+}
