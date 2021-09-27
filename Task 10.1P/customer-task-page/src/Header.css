@@ -1,0 +1,21 @@
+.header-div{
+    display: flex;
+    margin: 10px 20px 10px 20px;
+    height: 40px;
+    background-color: lightgray;
+}
+.p-main{
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+p{
+    float: left;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
