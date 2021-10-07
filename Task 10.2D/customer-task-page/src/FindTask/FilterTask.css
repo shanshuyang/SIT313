@@ -1,0 +1,13 @@
+.find-task-filter-task-div{
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 40px;
+}
+
+.filter_input{
+    height: 30px;
+    width: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+}

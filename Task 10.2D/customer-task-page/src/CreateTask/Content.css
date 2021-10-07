@@ -1,0 +1,66 @@
+.task-type-div{
+    display: flex;
+    margin: 10px 20px 10px 20px;
+}
+.task-type-p{
+    font-size: 18px;
+    margin-left: 5px;
+    margin-right: 50px;
+}
+input[type="radio"]{
+    height: 20px;
+    width: 20px;
+}
+label{
+    margin-right: 100px;
+}
+span{
+    font-size: 18px;
+}
+.task-describe-div, .task-setting-div{ 
+    margin: 10px 20px 10px 20px;
+}
+.task-title-div, .task-description-div, .task-suburb-div, .task-date-div, .task-image-div{
+    display: flex;
+    margin-bottom: 20px;
+}
+.task-title-p-div, .task-description-p-div, .task-suburb-p-div, .task-date-p-div{
+    display: flex;
+    width: 120px;
+}
+.task-title-p, .task-description-p, .task-suburb-p, .task-date-p, .task-remuneration-p, .task-image-p{
+    font-size: 18px;
+    margin-left: 5px;
+}
+input[type="text"], textarea{
+    width: 500px;
+    font-size: 18px;
+}
+input[type="file"]{
+    width: 90px;
+    font-size: 18px;
+}
+.task-remuneration-div{
+    display: block;
+    margin: 10px 20px 10px 20px;
+}
+.task-remuneration-type-div{
+    display: flex;
+    margin-bottom: 20px;
+}
+input[type="text"].task-remuneration-input{
+    display: flex;
+    width: 200px;
+    font-size: 18px;
+}
+.upload-btn{
+    height: 30px;
+    width: 100px;
+    margin-left: 20px;
+}
+.task-image{
+    width: 300px;
+    height: 180px;
+    margin-right: 20px;
+}
+
